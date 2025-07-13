@@ -56,7 +56,3 @@ In VANETs, real-time vehicle communication improves safety and traffic managemen
 - ✅ Prevents common attacks: spoofing, Sybil, and man-in-the-middle.
 
 ---
-
-## 📝 License
-
-This project is developed for academic use only.
